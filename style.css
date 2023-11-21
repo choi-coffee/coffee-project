@@ -2,12 +2,20 @@
     margin-bottom: 20px;
 }
 
+body {
+    background-image: url('./img/th.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
 .card {
     margin: 30px;
 }
 
 .header {
     text-align: center;
+    background-color: #D2B48C;
 }
 
 #new-coffee {
